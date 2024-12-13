@@ -91,12 +91,12 @@ Publish the website in the given URL.
 
 ```
 # SERVER SIDE PROCESSING:
-![Screenshot (39)](https://github.com/user-attachments/assets/e278b2b7-2a96-4bf0-be86-656f1f3c24f3)
+![image](https://github.com/user-attachments/assets/85f32b73-79a5-4dfc-a2a6-1b99f13c2bc8)
 
 
 # HOMEPAGE:
+![image](https://github.com/user-attachments/assets/e7f1cde5-fd92-4e97-b292-2b9e859529f3)
 
-![Screenshot (40)](https://github.com/user-attachments/assets/97c91851-4b27-4b3f-afc6-3ecc90db39bf)
 
 # RESULT:
 The program for performing server side processing is completed successfully.
